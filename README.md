@@ -1,51 +1,145 @@
-<div align="center">
-
-# 🔥 Welcome to My Digital Universe 🔥
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B+I'm+Khushi+Choudhary;Data+Scientist+%26+ML+Engineer;Python+%7C+ML%2FAI+%7C+Data+Analytics+%7C+Full+Stack" alt="Typing SVG" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=200&section=header&text=&fontSize=0&animation=twinkling" width="100%">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Khushi-Choudhary11)
-[![GitHub](https://img.shields.io/badge/GitHub-00D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Khushi-Choudhary11)
-[![Email](https://img.shields.io/badge/Email-FFD60A?style=for-the-badge&logo=gmail&logoColor=black)](mailto:khushich9085@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/khushi-choudhary-1b52462a7/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-FF6B9D?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/chkhushi123)
-
-</div>
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Khushi%20Choudhary&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20·%20ML%20Engineer%20·%20IIT%20Madras&descAlignY=58&descSize=18" width="100%">
 
 <div align="center">
 
-## ⚡ About Me ⚡
+<a href="https://github.com/Khushi-Choudhary11">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+ML+Engineer;IIT+Madras+·+B.S.+Data+Science;Building+intelligent%2C+data-driven+solutions;Open+to+Internships+%26+Research+Collab" alt="Typing SVG" />
+</a>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-choudhary-1b52462a7/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/chkhushi123)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khushich9085@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Khushi-Choudhary11)
+
+<img src="https://komarev.com/ghpvc/?username=Khushi-Choudhary11&style=flat-square&color=58a6ff&label=profile+views" alt="profile views" />
 
 </div>
+
+<br>
 
 ```python
-khushi = {
-    name: "Khushi Choudhary",
-    role: "Data Scientist & ML Engineer",
-    education: [
-        "BS Data Science (IIT Madras) - CGPA 8.57",
-        "Class 12: 93.4%",
-        "Class 10: 95%"
-    ],
-    specialization: [
-        "Machine Learning & Predictive Modeling",
-        "Data Analysis & Visualization",
-        "Full-Stack ML Applications",
-        "LLM & Prompt Engineering"
-    ],
-    achievements: [
-        "🏆 86.5% Accuracy - Maritime Survival Prediction (Top 8%)",
-        "⭐ 0.68 R² Score - Kaggle Competition",
-        "🌟 780+ Prompts Annotated - AI4Bharat",
-        "🎯 87.3% ML Model Accuracy"
-    ],
-    experience: "Data Annotator & Jailbreaker @ AI4Bharat (Aug 2025 - Feb 2026)",
-    currentFocus: "Building intelligent data-driven solutions with ML/AI",
-    openFor: "Freelance Projects & Full-time Data Science Roles"
-};
+class Khushi:
+    institution = "IIT Madras  ·  B.S. Data Science  (CGPA 8.57)"
+    building    = "intelligent, data-driven solutions that actually ship"
+    interests   = ["Machine Learning", "LLM & Prompt Engineering", "Data Pipelines", "Full-Stack ML Apps"]
+    achievements = [
+        "🏆 Top 8%  — Maritime Survival Prediction  (86.5% acc)",
+        "⭐ 0.68 R²  — Kaggle Regression Competition",
+        "🌟 780+ Prompts Annotated  @ AI4Bharat",
+        "🎯 87.3% Accuracy  — Custom ML Model",
+    ]
+    experience  = "Data Annotator & Jailbreaker @ AI4Bharat  (Aug 2025 – Feb 2026)"
+    open_to     = ["Internships", "Research Collaboration", "Open Source", "Freelance"]
+```
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=1" width="100%">
+
+### `stack`
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**ML / Data**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+
+**Tools & Deployment**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=1" width="100%">
+
+### `projects`
+
+| Project | Description | Tech | Result |
+|---|---|---|---|
+| 🚢 **Maritime Survival Prediction** | Titanic-style survival classification with feature engineering & ensemble methods | Python · sklearn · XGBoost | **86.5% acc · Top 8%** |
+| 📈 **Regression Challenge** | End-to-end Kaggle regression pipeline with hyperparameter tuning | Python · LightGBM · Optuna | **R² = 0.68** |
+| 🤖 **AI4Bharat Annotation** | Red-teaming & jailbreak testing of multilingual LLMs; curated 780+ adversarial prompts | LLMs · Prompt Eng. | **780+ prompts** |
+| 🧠 **ML Classification Model** | Custom model with data preprocessing, cross-validation, and deployment-ready pipeline | Python · sklearn · FastAPI | **87.3% acc** |
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=1" width="100%">
+
+### `stats`
+
+<div align="center">
+
+<a href="https://github.com/Khushi-Choudhary11">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Khushi-Choudhary11&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-Choudhary11&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</a>
+
+<br/>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Khushi-Choudhary11&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</a>
+
+<br/>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Khushi-Choudhary11&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</a>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=1" width="100%">
+
+### `currently learning`
+
+```text
+Machine Learning Systems         ████████████████░░░░  in progress
+LLM Applications & RAG           ████████████░░░░░░░░  ongoing
+Data Pipelines & MLOps           ███████████████░░░░░  active
+Full-Stack ML Deployment         ██████████░░░░░░░░░░  exploring
+Statistical Modeling             █████████████████░░░  solid
+```
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=1" width="100%">
+
+### `contributions`
+
+<div align="center">
+
+<a href="https://github.com/Khushi-Choudhary11">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushi-Choudhary11&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff" width="100%" />
+</a>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%">
