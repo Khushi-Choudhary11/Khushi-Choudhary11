@@ -21,14 +21,13 @@
 
 ```python
 class Khushi:
-    institution = "IIT Madras  ·  B.S. Data Science  (CGPA 8.57)"
+    institution = "IIT Madras  ·  B.S. Data Science "
     building    = "intelligent, data-driven solutions that actually ship"
     interests   = ["Machine Learning", "LLM & Prompt Engineering", "Data Pipelines", "Full-Stack ML Apps"]
-    achievements = [
-        "🏆 Top 8%  — Maritime Survival Prediction  (86.5% acc)",
-        "⭐ 0.68 R²  — Kaggle Regression Competition",
-        "🌟 780+ Prompts Annotated  @ AI4Bharat",
-        "🎯 87.3% Accuracy  — Custom ML Model",
+    ml-projects = [
+        " Maritime Survival Prediction  (86.5% acc)",
+        " Enagage - Click to conversion Kaggle Regression Competition",
+        "Crime Report System with severity detection using ML",
     ]
     experience  = "Data Annotator & Jailbreaker @ AI4Bharat  (Aug 2025 – Feb 2026)"
     open_to     = ["Internships", "Research Collaboration", "Open Source", "Freelance"]
@@ -46,7 +45,8 @@ class Khushi:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=typescript&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **ML / Data**
@@ -64,6 +64,7 @@ class Khushi:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -80,10 +81,10 @@ class Khushi:
 
 | Project | Description | Tech | Result |
 |---|---|---|---|
-| 🚢 **Maritime Survival Prediction** | Titanic-style survival classification with feature engineering & ensemble methods | Python · sklearn · XGBoost | **86.5% acc · Top 8%** |
-| 📈 **Regression Challenge** | End-to-end Kaggle regression pipeline with hyperparameter tuning | Python · LightGBM · Optuna | **R² = 0.68** |
+| 🚢 **Maritime Survival Prediction** | Titanic-style survival classification with feature engineering & ensemble methods | Python · sklearn · CatBoost · XGBoost | **86.5% acc ** |
+| 📈 **Regression Challenge** | End-to-end Kaggle regression pipeline with hyperparameter tuning | Python · sklearn · LightGBM · XGBoost | **R² = 0.68** |
 | 🤖 **AI4Bharat Annotation** | Red-teaming & jailbreak testing of multilingual LLMs; curated 780+ adversarial prompts | LLMs · Prompt Eng. | **780+ prompts** |
-| 🧠 **ML Classification Model** | Custom model with data preprocessing, cross-validation, and deployment-ready pipeline | Python · sklearn · FastAPI | **87.3% acc** |
+
 
 <br>
 
