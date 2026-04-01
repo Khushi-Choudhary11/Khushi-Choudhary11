@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Khushi%20Choudhary&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%C2%B7%20ML%20Engineer%20%C2%B7%20IIT%20Madras&descAlignY=58&descSize=18" width="100%">
+
 
 <div align="center">
 
 <a href="https://github.com/Khushi-Choudhary11">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Khushi+Choudhary+%F0%9F%91%8B;Data+Scientist+%26+ML+Engineer;IIT+Madras+%C2%B7+B.S.+Data+Science;Building+intelligent%2C+data-driven+solutions;Open+to+Internships+%26+Research+Collab" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Khushi+Choudhary+%F0%9F%91%8B;Data+Scientist+%26+ML+Engineer;IIT+Madras+%C2%B7+B.S.+Data+Science;Building+data-driven+solutions;" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,7 +27,7 @@ class Khushi:
     ml-projects = [
         " Maritime Survival Prediction  (86.5% acc)",
         " Enagage - Click to conversion Kaggle Regression Competition",
-        "Crime Report System with severity detection using ML",
+        " Crime Report System with severity detection using ML",
     ]
     experience  = "Data Annotator & Jailbreaker @ AI4Bharat  (Aug 2025 – Feb 2026)"
     open_to     = ["Internships", "Research Collaboration", "Open Source", "Freelance"]
@@ -39,15 +39,17 @@ class Khushi:
 
 ### `stack`
 
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,typescript,java,javascript,flask,fastapi,vue,react,redis,docker,git,linux,jupyter,colab,vscode,sqlite,postgres,mysql&theme=dark&perline=14" />
+</div>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=1" width="100%"/>
+
+
 <div align="center">
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=typescript&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **ML / Data**
 
@@ -60,16 +62,6 @@ class Khushi:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 
-**Tools & Deployment**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Flask](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 
 </div>
 
@@ -95,7 +87,7 @@ class Khushi:
 <div align="center">
 
 <a href="https://github.com/Khushi-Choudhary11">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Khushi-Choudhary11&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Khushi-Choudhary11&show_icons=true&theme=github_dark&hide_border=true&rank_icon=percentile" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-Choudhary11&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </a>
 
@@ -108,7 +100,7 @@ class Khushi:
 <br/>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Khushi-Choudhary11&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Khushi-Choudhary11&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" />
 </a>
 
 </div>
