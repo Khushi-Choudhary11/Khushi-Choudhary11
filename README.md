@@ -87,52 +87,36 @@ class Khushi:
 <div align="center">
 
 <a href="https://github.com/Khushi-Choudhary11">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Khushi-Choudhary11&show_icons=true&theme=github_dark&hide_border=true&rank_icon=percentile" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-Choudhary11&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Khushi-Choudhary11&show_icons=true&theme=github_dark&hide_border=true&title_color=c9d1d9&icon_color=6e7681&text_color=8b949e&bg_color=0d1117&rank_icon=percentile&card_width=420&border_radius=6" height="155"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khushi-Choudhary11&layout=compact&theme=github_dark&hide_border=true&title_color=c9d1d9&text_color=8b949e&bg_color=0d1117&langs_count=8&card_width=280&border_radius=6" height="155"/>
 </a>
 
 <br/>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Khushi-Choudhary11&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</a>
-
-<br/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Khushi-Choudhary11&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" />
-</a>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Khushi-Choudhary11&theme=github-dark-blue&hide_border=true&ring=8b949e&fire=e3b341&currStreakLabel=c9d1d9&sideLabels=6e7681&dates=6e7681&background=0d1117&border_radius=6" />
 
 </div>
 
-<br>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=1" width="100%">
-
-### `currently learning`
-
-```text
-Machine Learning Systems         ████████████████░░░░  in progress
-LLM Applications & RAG           ████████████░░░░░░░░  ongoing
-Data Pipelines & MLOps           ███████████████░░░░░  active
-Full-Stack ML Deployment         ██████████░░░░░░░░░░  exploring
-Statistical Modeling             █████████████████░░░  solid
-```
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=1" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=1" width="100%"/>
 
 ### `contributions`
 
 <div align="center">
 
 <a href="https://github.com/Khushi-Choudhary11">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushi-Choudhary11&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushi-Choudhary11&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&radius=6&custom_title=Contribution+Activity" width="100%" />
 </a>
+
+<br/>
+
 
 </div>
 
-<br>
-
+<div align="center">
+<br/>
+<sub><code>stay curious · keep shipping</code></sub>
+<br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%">
+</div>
