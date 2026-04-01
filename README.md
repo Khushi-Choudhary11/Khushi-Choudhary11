@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Khushi%20Choudhary&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20·%20ML%20Engineer%20·%20IIT%20Madras&descAlignY=58&descSize=18" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Khushi%20Choudhary&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%C2%B7%20ML%20Engineer%20%C2%B7%20IIT%20Madras&descAlignY=58&descSize=18" width="100%">
 
 <div align="center">
 
 <a href="https://github.com/Khushi-Choudhary11">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+ML+Engineer;IIT+Madras+·+B.S.+Data+Science;Building+intelligent%2C+data-driven+solutions;Open+to+Internships+%26+Research+Collab" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Khushi+Choudhary+%F0%9F%91%8B;Data+Scientist+%26+ML+Engineer;IIT+Madras+%C2%B7+B.S.+Data+Science;Building+intelligent%2C+data-driven+solutions;Open+to+Internships+%26+Research+Collab" alt="Typing SVG" />
 </a>
 
 <br/>
