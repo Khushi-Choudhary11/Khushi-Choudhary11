@@ -73,7 +73,7 @@ class Khushi:
 
 | Project | Description | Tech | Result |
 |---|---|---|---|
-| 🚢 **Maritime Survival Prediction** | Titanic-style survival classification with feature engineering & ensemble methods | Python · sklearn · CatBoost · XGBoost | **86.5% acc ** |
+| 🚢 **Maritime Survival Prediction** | Titanic-style survival classification with feature engineering & ensemble methods | Python · sklearn · CatBoost · XGBoost | **86.5% acc** |
 | 📈 **Regression Challenge** | End-to-end Kaggle regression pipeline with hyperparameter tuning | Python · sklearn · LightGBM · XGBoost | **R² = 0.68** |
 | 🤖 **AI4Bharat Annotation** | Red-teaming & jailbreak testing of multilingual LLMs; curated 780+ adversarial prompts | LLMs · Prompt Eng. | **780+ prompts** |
 
