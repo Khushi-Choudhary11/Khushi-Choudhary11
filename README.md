@@ -133,7 +133,7 @@ Kaggle ML project predicting customer session value with XGBoost.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushi-Choudhary11&bg_color=080808&color=D4AF62&line=F5C76B&point=F4EBDD&area=true&area_color=D4AF62&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Khushi Choudhary contribution activity graph" />
+<img src="https://ghchart.rshah.org/D4AF62/Khushi-Choudhary11" width="100%" alt="Khushi Choudhary GitHub contribution calendar" />
 
 </div>
 
