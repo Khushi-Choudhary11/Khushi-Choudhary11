@@ -15,7 +15,7 @@ I'm a B.S. Data Science student at **IIT Madras**, building data-driven products
 
 - 🔭 Working on LLM-powered apps, MLOps on GCP and data pipelines
 - 🤖 Previously **Data Annotator & Jailbreaker at AI4Bharat** (Aug 2025 – Feb 2026), red-teaming multilingual LLMs and curating 780+ adversarial prompts
-- 🌱 Contributing to open source, including a merged feature in **PyBe**, a scenario-driven Python learning platform
+- 🌱 Contributing to open source, with 5 merged PRs across **PyBe** and **Crowd Source FAQ** (Vicharanashala Lab, IIT Ropar)
 - 📫 Open to **internships, research collaboration, open source and freelance** work
 
 ## Tech stack
@@ -95,7 +95,12 @@ Crime reporting platform with real-time chat, map visualisation and ML-based rep
 
 ## Open source
 
-- **[PyBe](https://github.com/vicharanashala/pybe)** ([merged PR #60](https://github.com/vicharanashala/pybe/pull/60)): built an AI case-study generator supporting multiple LLM providers, with a mentor review queue and pedagogical validation of every generated scenario.
+Contributions to projects from the Vicharanashala Lab at IIT Ropar:
+
+| Project | Contribution | PRs |
+|---|---|---|
+| [**PyBe**](https://github.com/vicharanashala/pybe) | Built an AI case-study generator supporting multiple LLM providers, with a mentor review queue and pedagogical validation of every generated scenario | [#60](https://github.com/vicharanashala/pybe/pull/60) |
+| [**Crowd Source FAQ**](https://github.com/vicharanashala/crowd-source-faq) | Full-stack FAQ portal with semantic search and AI moderation. Added the dark/light theme toggle, themed the admin panel, refreshed the UI with a new light theme and icons, and fixed a spelling error | [#3](https://github.com/vicharanashala/crowd-source-faq/pull/3) · [#33](https://github.com/vicharanashala/crowd-source-faq/pull/33) · [#56](https://github.com/vicharanashala/crowd-source-faq/pull/56) · [#58](https://github.com/vicharanashala/crowd-source-faq/pull/58) |
 
 ## GitHub at a glance
 
