@@ -95,7 +95,7 @@ Crime reporting platform with real-time chat, map visualisation and ML-based rep
 
 ## Open source
 
-- **[PyBe](https://github.com/Khushi-Choudhary11/PyBe)**: built an AI case-study generator supporting multiple LLM providers, with a mentor review queue and pedagogical validation of every generated scenario.
+- **[PyBe](https://github.com/vicharanashala/pybe)** ([merged PR #60](https://github.com/vicharanashala/pybe/pull/60)): built an AI case-study generator supporting multiple LLM providers, with a mentor review queue and pedagogical validation of every generated scenario.
 
 ## GitHub at a glance
 
