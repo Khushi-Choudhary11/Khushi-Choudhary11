@@ -97,12 +97,14 @@ Crime reporting platform with real-time chat, map visualisation and ML-based rep
 
 - **[PyBe](https://github.com/Khushi-Choudhary11/PyBe)**: built an AI case-study generator supporting multiple LLM providers, with a mentor review queue and pedagogical validation of every generated scenario.
 
-## GitHub stats
+## GitHub at a glance
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Khushi-Choudhary11&show_icons=true&theme=github_dark&hide_border=true&title_color=c9d1d9&icon_color=6e7681&text_color=8b949e&bg_color=0d1117&rank_icon=percentile&card_width=420&border_radius=6" height="155" alt="GitHub stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khushi-Choudhary11&layout=compact&theme=github_dark&hide_border=true&title_color=c9d1d9&text_color=8b949e&bg_color=0d1117&langs_count=8&card_width=280&border_radius=6" height="155" alt="Top languages" />
+![Followers](https://img.shields.io/github/followers/Khushi-Choudhary11?style=for-the-badge&logo=github&color=161b22&labelColor=0d1117)
+![Public repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Khushi-Choudhary11&query=$.public_repos&label=Public%20repos&style=for-the-badge&logo=github&color=161b22&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/Khushi-Choudhary11/SachCheck?style=for-the-badge&label=SachCheck%20stars&color=161b22&labelColor=0d1117)
+![Last commit](https://img.shields.io/github/last-commit/Khushi-Choudhary11/Khushi-Choudhary11?style=for-the-badge&label=Last%20update&color=161b22&labelColor=0d1117)
 
 </div>
 
