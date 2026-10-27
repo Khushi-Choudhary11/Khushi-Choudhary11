@@ -45,11 +45,12 @@
 
 <h3>Glow Suite</h3>
 
-B2B salon management system with six AI features powered by the Claude API (Haiku 4.5).
+B2B salon management platform built as an IITM Software Engineering team project, with six AI features powered by the Claude API (Haiku 4.5): daily briefings, manager tasks, report generation and manager and customer chat.
 
-<img src="https://img.shields.io/badge/React-141414?style=flat-square&labelColor=141414&logo=react&logoColor=D4AF62" alt="React" /> <img src="https://img.shields.io/badge/FastAPI-141414?style=flat-square&labelColor=141414&logo=fastapi&logoColor=D4AF62" alt="FastAPI" /> <img src="https://img.shields.io/badge/Claude%20API-141414?style=flat-square&labelColor=141414&logo=anthropic&logoColor=D4AF62" alt="Claude API" />
+<img src="https://img.shields.io/badge/Vue.js-141414?style=flat-square&labelColor=141414&logo=vuedotjs&logoColor=D4AF62" alt="Vue.js" /> <img src="https://img.shields.io/badge/Flask-141414?style=flat-square&labelColor=141414&logo=flask&logoColor=D4AF62" alt="Flask" /> <img src="https://img.shields.io/badge/SQLite-141414?style=flat-square&labelColor=141414&logo=sqlite&logoColor=D4AF62" alt="SQLite" /> <img src="https://img.shields.io/badge/Claude%20API-141414?style=flat-square&labelColor=141414&logo=anthropic&logoColor=D4AF62" alt="Claude API" />
 
-<!-- TODO: add repository URL --><sub>Repository link coming soon</sub>
+<!-- TODO: add repository URL once the SE-IITM repo is public or forked -->
+<sub>Team project · repository link coming soon</sub>
 
 </td>
 <td width="50%" valign="top">
