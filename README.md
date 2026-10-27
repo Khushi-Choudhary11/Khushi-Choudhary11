@@ -24,10 +24,13 @@ class Khushi:
     institution = "IIT Madras  ·  B.S. Data Science "
     building    = "intelligent, data-driven solutions that actually ship"
     interests   = ["Machine Learning", "LLM & Prompt Engineering", "Data Pipelines", "Full-Stack ML Apps"]
-    ml-projects = [
+    projects    = [
+        " SachCheck: claim-level fact verification for news and images",
+        " MARG Copilot: AI co-pilot for Indian Railways section controllers",
         " Maritime Survival Prediction  (86.5% acc)",
-        " Enagage - Click to conversion Kaggle Regression Competition",
-        " Crime Report System with severity detection using ML",
+        " Engage2Value: Click to Conversion Kaggle Regression Competition",
+        " Rossmann store sales forecasting (ARIMA, SARIMA, Prophet)",
+        " CrimeReporter: crime reporting with ML-based text classification",
     ]
     experience  = "Data Annotator & Jailbreaker @ AI4Bharat  (Aug 2025 – Feb 2026)"
     open_to     = ["Internships", "Research Collaboration", "Open Source", "Freelance"]
@@ -71,11 +74,17 @@ class Khushi:
 
 ### `projects`
 
-| Project | Description | Tech | Result |
-|---|---|---|---|
-| 🚢 **Maritime Survival Prediction** | Titanic-style survival classification with feature engineering & ensemble methods | Python · sklearn · CatBoost · XGBoost | **86.5% acc** |
-| 📈 **Regression Challenge** | End-to-end Kaggle regression pipeline with hyperparameter tuning | Python · sklearn · LightGBM · XGBoost | **R² = 0.68** |
-| 🤖 **AI4Bharat Annotation** | Red-teaming & jailbreak testing of multilingual LLMs; curated 780+ adversarial prompts | LLMs · Prompt Eng. | **780+ prompts** |
+| Project | Description | Tech |
+|---|---|---|
+| [**SachCheck**](https://github.com/Khushi-Choudhary11/SachCheck) | AI-powered claim-level fact verification for articles, news and images | FastAPI · React · Python |
+| [**MARG Copilot**](https://github.com/Khushi-Choudhary11/MARG-Copilot) | Decision-support co-pilot for Indian Railways controllers: delay prediction and CP-SAT optimisation | FastAPI · React · OR-Tools · PyTorch |
+| [**Maritime Survival Prediction**](https://github.com/Khushi-Choudhary11/survival-prediction) | Survival classification on noisy tabular data, **86.5% acc** | sklearn · CatBoost · XGBoost |
+| [**Engage2Value**](https://github.com/Khushi-Choudhary11/click-to-conversion) | Predict session purchase value from digital behaviour (Kaggle regression), **R² = 0.68** | sklearn · LightGBM · XGBoost |
+| [**Rossmann Sales Forecasting**](https://github.com/Khushi-Choudhary11/Rossmann-Sales-timeSeries) | Store sales forecasting with statistical baselines vs Prophet, plus anomaly detection | ARIMA · SARIMA · Prophet |
+| [**CrimeReporter**](https://github.com/Khushi-Choudhary11/CrimeReporter) | Crime reporting with real-time chat, maps and ML report classification | Flask · React · ML |
+| [**EcoFinds**](https://github.com/Khushi-Choudhary11/Odoo-Hackathon-2025-EcoFinds) | Sustainable second-hand marketplace, built at Odoo Hackathon 2025 | Flask · React |
+| [**Portfolio**](https://github.com/Khushi-Choudhary11/Portfolio) | Personal portfolio site with light/dark theme | React · Vite |
+| 🤖 **AI4Bharat Annotation** | Red-teaming and jailbreak testing of multilingual LLMs; curated 780+ adversarial prompts | LLMs · Prompt Eng. |
 
 
 <br>
