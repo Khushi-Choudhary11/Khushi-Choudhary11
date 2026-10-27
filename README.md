@@ -16,10 +16,10 @@
 
 ## ✦ About Me
 
-- 🔭 Building practical AI and data-driven applications
-- 🧠 Exploring LLM systems, ML pipelines, deployment and full-stack development
-- 🌱 Interested in open-source contributions and meaningful real-world projects
-- 🎓 B.S. in Data Science at **IIT Madras**, interested in AI/ML, deep learning, LLMs, MLOps and data-driven products
+-  Building practical AI and data-driven applications
+-  Exploring LLM systems, ML pipelines, deployment and full-stack development
+-  Interested in open-source contributions and meaningful real-world projects
+-  B.S. in Data Science at **IIT Madras**, interested in AI/ML, deep learning, LLMs, MLOps and data-driven products
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF62&height=1" width="100%" alt="" />
 
