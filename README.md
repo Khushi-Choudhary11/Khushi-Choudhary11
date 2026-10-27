@@ -1,131 +1,113 @@
-
-
 <div align="center">
 
-<a href="https://github.com/Khushi-Choudhary11">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=F7A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Khushi+Choudhary+%F0%9F%91%8B;Data+Scientist+%26+ML+Engineer;IIT+Madras+%C2%B7+B.S.+Data+Science;Building+data-driven+solutions;" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Khushi%20Choudhary&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20Data%20Engineering&descSize=16&descAlignY=60" width="100%" alt="Khushi Choudhary" />
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-choudhary-1b52462a7/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/chkhushi123)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khushich9085@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Khushi-Choudhary11)
-
-<img src="https://komarev.com/ghpvc/?username=Khushi-Choudhary11&style=flat-square&color=58a6ff&label=profile+views" alt="profile views" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-choudhary-1b52462a7/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/chkhushi123)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushich9085@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/Khushi-Choudhary11/Portfolio)
 
 </div>
 
-<br>
+## About me
 
-```python
-class Khushi:
-    institution = "IIT Madras  ·  B.S. Data Science "
-    building    = "intelligent, data-driven solutions that actually ship"
-    interests   = ["Machine Learning", "LLM & Prompt Engineering", "Data Pipelines", "Full-Stack ML Apps"]
-    projects    = [
-        " SachCheck: claim-level fact verification for news and images",
-        " MARG Copilot: AI co-pilot for Indian Railways section controllers",
-        " Maritime Survival Prediction  (86.5% acc)",
-        " Engage2Value: Click to Conversion Kaggle Regression Competition",
-        " Rossmann store sales forecasting (ARIMA, SARIMA, Prophet)",
-        " CrimeReporter: crime reporting with ML-based text classification",
-    ]
-    experience  = "Data Annotator & Jailbreaker @ AI4Bharat  (Aug 2025 – Feb 2026)"
-    open_to     = ["Internships", "Research Collaboration", "Open Source", "Freelance"]
-```
+I'm a B.S. Data Science student at **IIT Madras**, building data-driven products that actually ship: ML models, data pipelines and full-stack apps around them.
 
-<br>
+- 🔭 Working on LLM-powered apps, MLOps on GCP and data pipelines
+- 🤖 Previously **Data Annotator & Jailbreaker at AI4Bharat** (Aug 2025 – Feb 2026), red-teaming multilingual LLMs and curating 780+ adversarial prompts
+- 🌱 Contributing to open source, including a merged feature in **PyBe**, a scenario-driven Python learning platform
+- 📫 Open to **internships, research collaboration, open source and freelance** work
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=1" width="100%">
-
-### `stack`
-
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,typescript,java,javascript,flask,fastapi,vue,react,redis,docker,git,linux,jupyter,colab,vscode,sqlite,postgres,mysql&theme=dark&perline=14" />
-</div>
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=1" width="100%"/>
-
+## Tech stack
 
 <div align="center">
 
-
-**ML / Data**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
-
+| | |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **ML and Data** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+| **MLOps and Cloud** | ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 
 </div>
 
-<br>
+## Featured projects
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=1" width="100%">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### `projects`
+### 🔍 [SachCheck](https://github.com/Khushi-Choudhary11/SachCheck)
+AI-powered, claim-level fact verification for articles, news and images, built to fight misinformation in real time.
 
-| Project | Description | Tech |
-|---|---|---|
-| [**SachCheck**](https://github.com/Khushi-Choudhary11/SachCheck) | AI-powered claim-level fact verification for articles, news and images | FastAPI · React · Python |
-| [**MARG Copilot**](https://github.com/Khushi-Choudhary11/MARG-Copilot) | Decision-support co-pilot for Indian Railways controllers: delay prediction and CP-SAT optimisation | FastAPI · React · OR-Tools · PyTorch |
-| [**Maritime Survival Prediction**](https://github.com/Khushi-Choudhary11/survival-prediction) | Survival classification on noisy tabular data, **86.5% acc** | sklearn · CatBoost · XGBoost |
-| [**Engage2Value**](https://github.com/Khushi-Choudhary11/click-to-conversion) | Predict session purchase value from digital behaviour (Kaggle regression), **R² = 0.68** | sklearn · LightGBM · XGBoost |
-| [**Rossmann Sales Forecasting**](https://github.com/Khushi-Choudhary11/Rossmann-Sales-timeSeries) | Store sales forecasting with statistical baselines vs Prophet, plus anomaly detection | ARIMA · SARIMA · Prophet |
-| [**CrimeReporter**](https://github.com/Khushi-Choudhary11/CrimeReporter) | Crime reporting with real-time chat, maps and ML report classification | Flask · React · ML |
-| [**EcoFinds**](https://github.com/Khushi-Choudhary11/Odoo-Hackathon-2025-EcoFinds) | Sustainable second-hand marketplace, built at Odoo Hackathon 2025 | Flask · React |
-| [**Portfolio**](https://github.com/Khushi-Choudhary11/Portfolio) | Personal portfolio site with light/dark theme | React · Vite |
-| 🤖 **AI4Bharat Annotation** | Red-teaming and jailbreak testing of multilingual LLMs; curated 780+ adversarial prompts | LLMs · Prompt Eng. |
+`FastAPI` `React` `Python` `NLP`
 
+</td>
+<td width="50%" valign="top">
 
-<br>
+### 🚆 [MARG Copilot](https://github.com/Khushi-Choudhary11/MARG-Copilot)
+Decision-support co-pilot for Indian Railways section controllers: delay prediction, CP-SAT optimisation and a live control-tower UI.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=1" width="100%">
+`FastAPI` `React` `OR-Tools` `PyTorch`
 
-### `stats`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚢 [Maritime Survival Prediction](https://github.com/Khushi-Choudhary11/survival-prediction)
+Survival classification on deliberately noisy tabular data. **86.5% accuracy** with an ensemble of tree models.
+
+`scikit-learn` `CatBoost` `XGBoost`
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 [Engage2Value](https://github.com/Khushi-Choudhary11/click-to-conversion)
+Predicting session purchase value from digital behaviour on 116k sessions. Kaggle regression, **R² = 0.68**.
+
+`scikit-learn` `LightGBM` `XGBoost`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏬 [Rossmann Sales Forecasting](https://github.com/Khushi-Choudhary11/Rossmann-Sales-timeSeries)
+Daily sales forecasting for a retail store: ARIMA and SARIMA baselines vs Prophet, plus a simple anomaly detector.
+
+`Prophet` `statsmodels` `Time Series`
+
+</td>
+<td width="50%" valign="top">
+
+### 🕵️ [CrimeReporter](https://github.com/Khushi-Choudhary11/CrimeReporter)
+Crime reporting platform with real-time chat, map visualisation and ML-based report classification.
+
+`Flask` `React` `ML`
+
+</td>
+</tr>
+</table>
+
+**More:** [EcoFinds](https://github.com/Khushi-Choudhary11/Odoo-Hackathon-2025-EcoFinds) (Odoo Hackathon 2025 marketplace) · [Portfolio](https://github.com/Khushi-Choudhary11/Portfolio) (React + Vite) · [Library Management System](https://github.com/Khushi-Choudhary11/Library-Management-System) (Python + PostgreSQL) · [Museum Heist](https://github.com/Khushi-Choudhary11/museum-heist-python) (interactive Python functions lesson)
+
+## Open source
+
+- **[PyBe](https://github.com/Khushi-Choudhary11/PyBe)**: built an AI case-study generator supporting multiple LLM providers, with a mentor review queue and pedagogical validation of every generated scenario.
+
+## GitHub stats
 
 <div align="center">
 
-<a href="https://github.com/Khushi-Choudhary11">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Khushi-Choudhary11&show_icons=true&theme=github_dark&hide_border=true&title_color=c9d1d9&icon_color=6e7681&text_color=8b949e&bg_color=0d1117&rank_icon=percentile&card_width=420&border_radius=6" height="155"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khushi-Choudhary11&layout=compact&theme=github_dark&hide_border=true&title_color=c9d1d9&text_color=8b949e&bg_color=0d1117&langs_count=8&card_width=280&border_radius=6" height="155"/>
-</a>
-
-<br/>
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Khushi-Choudhary11&theme=github-dark-blue&hide_border=true&ring=8b949e&fire=e3b341&currStreakLabel=c9d1d9&sideLabels=6e7681&dates=6e7681&background=0d1117&border_radius=6" />
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=1" width="100%"/>
-
-### `contributions`
-
-<div align="center">
-
-<a href="https://github.com/Khushi-Choudhary11">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushi-Choudhary11&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&radius=6&custom_title=Contribution+Activity" width="100%" />
-</a>
-
-<br/>
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Khushi-Choudhary11&show_icons=true&theme=github_dark&hide_border=true&title_color=c9d1d9&icon_color=6e7681&text_color=8b949e&bg_color=0d1117&rank_icon=percentile&card_width=420&border_radius=6" height="155" alt="GitHub stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khushi-Choudhary11&layout=compact&theme=github_dark&hide_border=true&title_color=c9d1d9&text_color=8b949e&bg_color=0d1117&langs_count=8&card_width=280&border_radius=6" height="155" alt="Top languages" />
 
 </div>
 
 <div align="center">
 <br/>
 <sub><code>stay curious · keep shipping</code></sub>
-<br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="" />
 </div>
