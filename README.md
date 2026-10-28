@@ -74,7 +74,7 @@ ML pipeline on Google Cloud Vertex AI with DVC and Feast integration.
 
 <img src="https://img.shields.io/badge/Vertex%20AI-141414?style=flat-square&labelColor=141414&logo=googlecloud&logoColor=D4AF62" alt="Vertex AI" /> <img src="https://img.shields.io/badge/DVC-141414?style=flat-square&labelColor=141414&logo=dvc&logoColor=D4AF62" alt="DVC" /> <img src="https://img.shields.io/badge/Feast-141414?style=flat-square&labelColor=141414" alt="Feast" />
 
-<!-- TODO: add repository URL --><sub>Repository link coming soon</sub>
+<a href="https://github.com/Khushi-Choudhary11/23f3002872_MLOPS_WEEKLY_ASSIGNMENT">View repository</a>
 
 </td>
 <td width="50%" valign="top">
