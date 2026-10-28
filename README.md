@@ -92,17 +92,6 @@ ML-powered crime reporting system with JWT authentication.
 <tr>
 <td width="50%" valign="top">
 
-<h3>ReRoots</h3>
-
-Civic-tech platform built with the IIT Madras BS Tech Society, with ML recommendations.
-
-<img src="https://img.shields.io/badge/Flask-141414?style=flat-square&labelColor=141414&logo=flask&logoColor=D4AF62" alt="Flask" /> <img src="https://img.shields.io/badge/React-141414?style=flat-square&labelColor=141414&logo=react&logoColor=D4AF62" alt="React" /> <img src="https://img.shields.io/badge/Machine%20Learning-141414?style=flat-square&labelColor=141414&logo=scikitlearn&logoColor=D4AF62" alt="Machine Learning" />
-
-<!-- TODO: add repository URL --><sub>Repository link coming soon</sub>
-
-</td>
-<td width="50%" valign="top">
-
 <h3>Engage2Value</h3>
 
 Kaggle ML project predicting customer session value with XGBoost.
@@ -112,6 +101,7 @@ Kaggle ML project predicting customer session value with XGBoost.
 <a href="https://github.com/Khushi-Choudhary11/click-to-conversion">View repository</a>
 
 </td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
