@@ -101,7 +101,17 @@ Kaggle ML project predicting customer session value with XGBoost.
 <a href="https://github.com/Khushi-Choudhary11/click-to-conversion">View repository</a>
 
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+
+<h3>Survival Prediction</h3>
+
+Maritime survival prediction on noisy tabular data, reaching 86.5% accuracy with ensemble models.
+
+<img src="https://img.shields.io/badge/scikit--learn-141414?style=flat-square&labelColor=141414&logo=scikitlearn&logoColor=D4AF62" alt="scikit-learn" /> <img src="https://img.shields.io/badge/XGBoost-141414?style=flat-square&labelColor=141414" alt="XGBoost" /> <img src="https://img.shields.io/badge/CatBoost-141414?style=flat-square&labelColor=141414" alt="CatBoost" />
+
+<a href="https://github.com/Khushi-Choudhary11/survival-prediction">View repository</a>
+
+</td>
 </tr>
 </table>
 
