@@ -43,6 +43,17 @@
 <tr>
 <td width="50%" valign="top">
 
+<h3>MARG Copilot</h3>
+
+AI co-pilot for Indian Railways section controllers: a digital twin of the corridor with PyTorch delay prediction, OR-Tools CP-SAT train re-sequencing and Claude API explanations in a live control-tower UI.
+
+<img src="https://img.shields.io/badge/FastAPI-141414?style=flat-square&labelColor=141414&logo=fastapi&logoColor=D4AF62" alt="FastAPI" /> <img src="https://img.shields.io/badge/PyTorch-141414?style=flat-square&labelColor=141414&logo=pytorch&logoColor=D4AF62" alt="PyTorch" /> <img src="https://img.shields.io/badge/OR--Tools-141414?style=flat-square&labelColor=141414&logo=google&logoColor=D4AF62" alt="OR-Tools" /> <img src="https://img.shields.io/badge/React-141414?style=flat-square&labelColor=141414&logo=react&logoColor=D4AF62" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-141414?style=flat-square&labelColor=141414&logo=typescript&logoColor=D4AF62" alt="TypeScript" />
+
+<a href="https://marg-copilot.vercel.app">Live demo</a> · <a href="https://github.com/Khushi-Choudhary11/MARG-Copilot">View repository</a>
+
+</td>
+<td width="50%" valign="top">
+
 <h3>Glow Suite</h3>
 
 B2B salon management platform built as an IITM Software Engineering team project, with six AI features powered by the Claude API (Haiku 4.5): daily briefings, manager tasks, report generation and manager and customer chat.
@@ -53,6 +64,8 @@ B2B salon management platform built as an IITM Software Engineering team project
 <sub>Team project · repository link coming soon</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <h3>SachCheck</h3>
@@ -64,8 +77,6 @@ Fact-checking web app with OCR, claim extraction and evidence verification.
 <a href="https://github.com/Khushi-Choudhary11/SachCheck">View repository</a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <h3>IRIS MLOps Pipeline</h3>
@@ -77,6 +88,8 @@ ML pipeline on Google Cloud Vertex AI with DVC and Feast integration.
 <a href="https://github.com/Khushi-Choudhary11/23f3002872_MLOPS_WEEKLY_ASSIGNMENT">View repository</a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <h3>Crime Reporter</h3>
@@ -86,19 +99,6 @@ ML-powered crime reporting system with JWT authentication.
 <img src="https://img.shields.io/badge/Flask-141414?style=flat-square&labelColor=141414&logo=flask&logoColor=D4AF62" alt="Flask" /> <img src="https://img.shields.io/badge/React-141414?style=flat-square&labelColor=141414&logo=react&logoColor=D4AF62" alt="React" /> <img src="https://img.shields.io/badge/SQLite-141414?style=flat-square&labelColor=141414&logo=sqlite&logoColor=D4AF62" alt="SQLite" /> <img src="https://img.shields.io/badge/JWT-141414?style=flat-square&labelColor=141414&logo=jsonwebtokens&logoColor=D4AF62" alt="JWT" />
 
 <a href="https://github.com/Khushi-Choudhary11/CrimeReporter">View repository</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>Engage2Value</h3>
-
-Kaggle ML project predicting customer session value with XGBoost.
-
-<img src="https://img.shields.io/badge/XGBoost-141414?style=flat-square&labelColor=141414" alt="XGBoost" /> <img src="https://img.shields.io/badge/scikit--learn-141414?style=flat-square&labelColor=141414&logo=scikitlearn&logoColor=D4AF62" alt="scikit-learn" /> <img src="https://img.shields.io/badge/Kaggle-141414?style=flat-square&labelColor=141414&logo=kaggle&logoColor=D4AF62" alt="Kaggle" />
-
-<a href="https://github.com/Khushi-Choudhary11/click-to-conversion">View repository</a>
 
 </td>
 <td width="50%" valign="top">
@@ -114,6 +114,13 @@ Maritime survival prediction on noisy tabular data, reaching 86.5% accuracy with
 </td>
 </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF62&height=1" width="100%" alt="" />
+
+## ✦ Open Source Contributions
+
+- **[vicharanashala/crowd-source-faq](https://github.com/vicharanashala/crowd-source-faq)**: full-stack FAQ portal with semantic search and AI moderation. 4 merged PRs on theming and UI, including a [light/dark theme toggle](https://github.com/vicharanashala/crowd-source-faq/pull/3), the [admin panel dark theme](https://github.com/vicharanashala/crowd-source-faq/pull/33) and a [sage light theme with home page doodles](https://github.com/vicharanashala/crowd-source-faq/pull/58).
+- **[vicharanashala/pybe](https://github.com/vicharanashala/pybe)**: scenario-driven Python learning platform. Built the [Scenario Generator](https://github.com/vicharanashala/pybe/pull/60): AI-generated five-stage case studies with mentor review and learner workflows.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF62&height=1" width="100%" alt="" />
 
