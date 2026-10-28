@@ -128,10 +128,10 @@ Maritime survival prediction on noisy tabular data, reaching 86.5% accuracy with
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Khushi-Choudhary11&show_icons=true&bg_color=0d0d0d&title_color=D4AF62&icon_color=F5C76B&text_color=F4EBDD&hide_border=true&border_radius=8" height="165" alt="Khushi Choudhary GitHub stats card" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-Choudhary11&layout=compact&langs_count=8&bg_color=0d0d0d&title_color=D4AF62&icon_color=F5C76B&text_color=F4EBDD&hide_border=true&border_radius=8" height="165" alt="Most used languages card" />
+<img src="https://raw.githubusercontent.com/Khushi-Choudhary11/Khushi-Choudhary11/output/stats.svg" height="165" alt="Khushi Choudhary GitHub stats card" />
+<img src="https://raw.githubusercontent.com/Khushi-Choudhary11/Khushi-Choudhary11/output/top-langs.svg" height="165" alt="Most used languages card" />
 
-<img src="https://streak-stats.demolab.com?user=Khushi-Choudhary11&background=0D0D0D&ring=D4AF62&fire=F5C76B&currStreak=F4EBDD&sideNums=F4EBDD&sideLabels=D4AF62&dates=8A8070&stroke=3A3226&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://raw.githubusercontent.com/Khushi-Choudhary11/Khushi-Choudhary11/output/streak.svg" alt="GitHub contribution streak" />
 
 </div>
 
@@ -141,7 +141,7 @@ Maritime survival prediction on noisy tabular data, reaching 86.5% accuracy with
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/D4AF62/Khushi-Choudhary11" width="100%" alt="Khushi Choudhary GitHub contribution calendar" />
+<img src="https://raw.githubusercontent.com/Khushi-Choudhary11/Khushi-Choudhary11/output/contributions.svg" width="100%" alt="Khushi Choudhary GitHub contribution calendar" />
 
 </div>
 
